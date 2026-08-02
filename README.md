@@ -1,6 +1,9 @@
-# 💫 About Me:
-🌱 I’m currently working on development projects & improving my coding skills<br>🎓 I’m studying Electronics & Computer Engineering<br>🤝 I’m looking to collaborate on web, AI & startup-based projects<br>🧠 I’m currently learning full-stack development & AI/ML<br>💬 Ask me about coding, startups & tech ideas<br>⚡ Fun fact: I love turning ideas into real-world projects 🚀
+# Hey Welcome to my Profile........
+I’m super excited to explore new things, learn, and grow. and i also excited to know about you.. 
+-----Want to know more about what I do? Scroll down to check out my journey! 👇
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shubham-kadam-374966304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamkadam22100@gmail.com) 
@@ -25,24 +28,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=shubhamkadam22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkadam22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shubhamkadam22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shubhamkadam22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shubhamkadam22&icon=0&color=0)](https://visitcount.itsvg.in)
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkadam22&theme=tokyo-night" />
 
 Streak Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkadam22&theme=tokyonight" />
 </p>
