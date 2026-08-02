@@ -2,7 +2,7 @@
 I’m super excited to explore new things, learn, and grow. and i also excited to know about you.. 
 -----Want to know more about what I do? Scroll down to check out my journey! 👇
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
