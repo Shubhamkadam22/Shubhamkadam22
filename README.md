@@ -24,5 +24,5 @@ I’m super excited to explore new things, learn, and grow. and i also excited t
 
 # 📊 GitHub Streak:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shubhamkadam22)](https://git.io/streak-stats)
+![GitHub Streak](./profile/streak.svg)
 
