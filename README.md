@@ -26,3 +26,8 @@ I’m super excited to explore new things, learn, and grow. and i also excited t
 
 ![GitHub Streak](./profile/streak.svg)
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamkadam22&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkadam22&layout=compact&theme=dark" alt="Top Languages" />
+</div>
