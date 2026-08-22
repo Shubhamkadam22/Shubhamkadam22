@@ -24,7 +24,6 @@ I’m super excited to explore new things, learn, and grow. and i also excited t
 
 # 📊 GitHub Streak:
 ![GitHub Streak](./profile/streak.svg)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubhamkadam22&user=Shubhamkadam22&theme=dark&user_timezone=Asia/Kolkata)
 
 
 
