@@ -14,4 +14,4 @@ I’m super excited to explore new things, learn, and grow. and i also excited t
 ![GitHub Streak](./profile/streak.svg)
 
 
-
+[![Shubham's GitHub Activity Graph](https://ghchart.rshah.org/40c463/Shubhamkadam22)](https://github.com/Shubhamkadam22)
